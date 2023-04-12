@@ -1,1 +1,0 @@
-Latex Template
